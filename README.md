@@ -29,7 +29,7 @@ Projeyi kaynak kodundan çalıştırmak için Python 3.10+ kurulu olmalıdır.
 
 1. **Repoyu klonlayın:**
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
+   git clone [https://github.com/Zwsup/Subnet-Master.git](https://github.com/Zwsup/Subnet-Master.git)
    cd REPO_ADIN
 
 
